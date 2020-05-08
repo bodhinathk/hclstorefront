@@ -48,8 +48,8 @@
 		"odata2webservices",
 		"odata2webservicesfeaturetests",
 		"kymaintegrationbackoffice",
-		"kymaintegrationsampledata"
-
+		"kymaintegrationsampledata",
+		"smarteditaddon"
 
 	],
 	"storefrontAddons": [{
