@@ -116,34 +116,34 @@
 
 	"properties": [{
 			"key": "website.electronics.http",
-			"value": "http://accstorefront.c78lx-synergy553-d3-public.model-t.cc.commerce.ondemand.com/yacceleratorstorefront",
+			"value": "http://accstorefront.cmxuwm6npz-hclameric1-d1-public.model-t.cc.commerce.ondemand.com/yacceleratorstorefront",
 			"persona": "development"
 		},
 		{
 			"key": "website.electronics.https",
-			"value": "https://accstorefront.c78lx-synergy553-d3-public.model-t.cc.commerce.ondemand.com/yacceleratorstorefront",
+			"value": "https://accstorefront.cmxuwm6npz-hclameric1-d1-public.model-t.cc.commerce.ondemand.com/yacceleratorstorefront",
 			"persona": "development"
 		},
 
 		{
 			"key": "website.powertools.http",
-			"value": "http://accstorefront.c78lx-synergy553-d3-public.model-t.cc.commerce.ondemand.com/yacceleratorstorefront",
+			"value": "http://accstorefront.cmxuwm6npz-hclameric1-d1-public.model-t.cc.commerce.ondemand.com/yacceleratorstorefront",
 			"persona": "development"
 		},
 		{
 			"key": "website.powertools.https",
-			"value": "https://accstorefront.c78lx-synergy553-d3-public.model-t.cc.commerce.ondemand.com/yacceleratorstorefront",
+			"value": "https://accstorefront.cmxuwm6npz-hclameric1-d1-public.model-t.cc.commerce.ondemand.com/yacceleratorstorefront",
 			"persona": "development"
 		},
 
 		{
 			"key": "website.apparel-uk.http",
-			"value": "http://accstorefront.c78lx-synergy553-d3-public.model-t.cc.commerce.ondemand.com/yacceleratorstorefront",
+			"value": "http://accstorefront.cmxuwm6npz-hclameric1-d1-public.model-t.cc.commerce.ondemand.com/yacceleratorstorefront",
 			"persona": "development"
 		},
 		{
 			"key": "website.apparel-uk.https",
-			"value": "https://accstorefront.c78lx-synergy553-d3-public.model-t.cc.commerce.ondemand.com/yacceleratorstorefront",
+			"value": "https://accstorefront.cmxuwm6npz-hclameric1-d1-public.model-t.cc.commerce.ondemand.com/yacceleratorstorefront",
 			"persona": "development"
 		},
 		{
